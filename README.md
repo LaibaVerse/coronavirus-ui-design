@@ -8,7 +8,6 @@ A modern and clean COVID-19 awareness website UI, designed entirely in **Figma**
 
 ## 🔗 Figma Link  
 [👉 Open in Figma]([https://www.figma.com/file/xxxxxxxxxxxxxxxxx](https://www.figma.com/design/0jbfTfYJzxIirGNbxO53Ou/COVID-WEBSITE?node-id=0-1&p=f&t=B0l7sn6ctkikZJS2-0))  
-*(Replace this link with your actual Figma project link)*
 
 ---
 
