@@ -6,10 +6,7 @@ A modern and clean COVID-19 awareness website UI, designed entirely in **Figma**
 
 ---
 
-## 📄 Files Included
+## Files Included
 - `preview.png` – Image preview of the website UI
 - `coronavirus-ui.pdf` – Full UI design in PDF format
 
----
-
-🎨 Made with love in Figma by **Laiba**
